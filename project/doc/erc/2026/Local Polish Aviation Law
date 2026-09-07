@@ -10,21 +10,21 @@ PANSA Drone Tower app - DroneTower is the official mobile app by the Polish Air 
 ![Drone clasification EASA](drone clasification EASA.jpg)
 
 
-Special category - The “special” category is intended for medium-risk operations whose flight parameters exceed the “open category”
+Specific category - The “specific” category is intended for medium-risk operations whose flight parameters exceed the “open category”.
+(link: https://www.easa.europa.eu/en/domains/drones-air-mobility/operating-drone/specific-category-civil-drones)
 
 Open Category - The “open category” allows for low risk flights. These includes VLOS (Visual Line Of Sight) flights  link ** Most likely category for the ERC competition **
 
-Open category - low risk - civil drones (link)
+Open category - low risk - civil drones (link: https://www.easa.europa.eu/en/domains/drones-air-mobility/operating-drone/open-category-low-risk-civil-drones)
  
-Look for a C-class label (on the drone’s physical casing, packaging, or manual)
-Drones without labels (legacy drones) bought before January 1, 2024 (treated by weight: A1,A2,A3)
-Modifying a retail drone - or building one yourself - voids any factory C-class rating. Under EASA regulations, your drone will now be classified as a “privately built”.
+1. Look for a C-class label (on the drone’s physical casing, packaging, or manual)
+2. Drones without labels (legacy drones) bought before January 1, 2024 (treated by weight: A1,A2,A3)
+3. Modifying a retail drone - or building one yourself - voids any factory C-class rating. Under EASA regulations, your drone will now be classified as a “privately built”.
 	
-Privately built drone classification:
-By Maximum Take-Off Mass (MTOM) - total weight of the drone including competition modification, payloads, batteries, etc)
+Privately built drone classification: (most likely classification for our drone)
+By Maximum Take-Off Mass (MTOM) - total weight of the drone including competition modification, payloads, batteries, etc.
 	
-Under 250 grams: it remains in subcategory A1
-250 grams to 25 kg: strictest classification A3
+If privately built & < 25kg --> A3 : must fly far from people
 
 
 Operator / Pilot registration
