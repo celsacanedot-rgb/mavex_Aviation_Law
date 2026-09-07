@@ -1,0 +1,49 @@
+#Chek list for compliance - For Rover and drone
+**notes: the character (__) is meant to be used as a checklist/checkbox**
+__ All requirements on Appendix 3 are met:
+__ Communications requirements all met: communications with the rover shall be designed for use of legally legally available frequencies and power levels
+__ Max. distance between rover and antenna: ≤ 100 meters
+__ Standard communication: WiFi 2.4Ghz / 5GHz
+Accepted frequencies:
+__ 144 - 146 MHz
+__ 430 - 440 MHz
+__ 1240 - 1300 MHz
+__ 5650 - 5850 MHz
+
+__ At least one team member has an amateur radio license (CEPT class T/R 61-01)
+__ If using 2.4 GHz Band (2412 - 2472 MHz)
+Only Wi-fi communication standard is accepted (IEEE 802.11)
+Accepted channels:
+ 1-13 (centre frequency 2412 MHz = 2472 MHz). 
+Wifi channel 1 spans from 2400 MHz and the last Wi-Fi channel (14 - not accepted at the ERC) is still 2495 MHz. That range is protected and cannot be used by any other communication devices than the WiFi 802.11.
+Up to 100mW EIRP
+Accepted standards: IEEE 802.11 b/g/n
+Rover can use only one 20 MHz channel
+SSID should be set to “ERC_TeamName”.
+
+__ If using 5 GHz Low Band (5150  - 5725 MHz)
+Only two 40 MHz channels for wireless Access Systems: 
+Wi-fi and AirMax only
+Up to 1 W EIRP power
+Wider channel allocation (80MHz) only after requested permission from organizers.
+SSID should be set to “ERC_TeamName_(A/B)
+At least one or two allocated channels will not be a DFS channel (if possible to set by the Team on their equipment).
+
+__ If using 5 GHZ High Band (5725 - 5875 MHz)
+Can use two 30 MHz channels for any communication system - FPV, etc.
+If using ISM (Industrial, Scientific, Medical ) Bands: 
+Team must designate which rule is in compliance with European regulations (https://www.thethingsnetwork.org/docs/lorawan/regional-limitations-of-rf-use/ )
+Voice communication using a 500 mW PMR licensed transceiver is allowed on following channels frequencies (MHz): 
+▪ 446,00625
+▪ 446,01875
+▪ 446,03125
+▪ 446,04375
+▪ 446,05625
+▪ 446,06875
+▪ 446,08125 - reserved for the organizer
+▪ 446,09375 - reserved for the organizer
+
+__ If mobile networks are used: communications via mobile networks (4G, 5G, LTE, etc)
+Other communications: must be allowed/legal and documented and agreed by the organizer.
+Before the competition: Team should bring 2x filled Radio frequency check cards (appendix 4) for every task (do they need to be printed in advance? Can they be printed at the competition?)
+Deliver correct RF form at least 2 weeks before participating to receive points.
